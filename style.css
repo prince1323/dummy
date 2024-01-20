@@ -10,7 +10,7 @@
 html,
 body {
     height: 100%;
-    width: 100%;
+    width: 100vw;
     background: #2E2E2F;
     overflow-x: hidden;
     font-family: 'Montserrat', sans-serif;
